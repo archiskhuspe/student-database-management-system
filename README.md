@@ -1,4 +1,4 @@
-# EduLink — Student Database Management System
+# Student Database Management System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
