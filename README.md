@@ -1,11 +1,11 @@
-# Student Database Management System
+# EduLink — Student Database Management System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.x-black?logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A Flask web application for managing student records, attendance, and department data, backed by a MySQL database. Built as a coursework project.
+EduLink is a Flask web application for managing student records, attendance, and department data, backed by a MySQL database. Built as a coursework project.
 
 ---
 
